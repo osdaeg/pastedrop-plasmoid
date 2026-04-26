@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+                          http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+    <kcfgfile name=""/>
+    <group name="General">
+        <entry name="pasteHost" type="String">
+            <default>http://192.168.1.10:8090</default>
+        </entry>
+        <entry name="ttlSeconds" type="Int">
+            <default>604800</default>
+        </entry>
+        <entry name="pasteLanguage" type="String">
+            <default>plaintext</default>
+        </entry>
+    </group>
+</kcfg>
