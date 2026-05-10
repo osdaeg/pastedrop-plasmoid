@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Authors": [{ "Email": "", "Name": "Daniel" }],
+        "Category": "Utilities",
+        "Description": "Arrastrá texto para crear un paste en paste.sh",
+        "Icon": "text-x-generic",
+        "Id": "com.daniel.pastedrop",
+        "License": "GPL-2.0-or-later",
+        "Name": "PasteDrop",
+        "Version": "1.0",
+        "Website": ""
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
